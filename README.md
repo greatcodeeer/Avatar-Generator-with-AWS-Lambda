@@ -1,5 +1,5 @@
 # Avatar Generator
-An avatar generator web service base on serverless technology
+An avatar generator web service based on serverless technology
 
 ### Param:
 + text - used to create hash string
