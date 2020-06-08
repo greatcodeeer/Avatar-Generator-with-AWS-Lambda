@@ -7,7 +7,7 @@ An avatar generator web service based on serverless technology
 
 
 ### Usage:
-Use it in your website just set the source of your <img> element of avatar url like so:
+Use it in your website just set the source of your img element of avatar url like so:
 ```js
 <img src="https://avatar.ok.sb/?text=ok&size=220">
 ```
